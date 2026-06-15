@@ -10,7 +10,7 @@ Este espacio contiene el índice de los proyectos y laboratorios desarrollados d
 
 A continuación se listan los proyectos académicos organizados cronológicamente:
 
-*   ### [Proyecto 01: Analizador Léxico](#)
+*   ### [Proyecto 01: Analizador git pulLéxico](#)
     *   **Descripción:** *[Breve descripción de tu primer proyecto, ej: Implementación de un analizador de tokens usando expresiones regulares]*
     *   **Enlace al Repositorio:** [Ver repositorio del proyecto](#) 
     *   **Estado:** `Completado` / `En desarrollo`
