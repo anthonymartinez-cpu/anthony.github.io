@@ -18,7 +18,7 @@ Selecciona un periodo para inspeccionar las materias y los proyectos correspondi
 
 ---
 
-## 🛠️ Tecnologías Globales Administradas
+## Tecnologías Globales Administradas
 A lo largo de mis proyectos académicos, implemento y administro soluciones utilizando:
 `Git` `GitHub` `Markdown`
 
@@ -27,7 +27,7 @@ A lo largo de mis proyectos académicos, implemento y administro soluciones util
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 A continuación se presentan métricas automatizadas que reflejan mi actividad y lenguajes más utilizados en la plataforma:
 
 ![Estadísticas de Anthony](https://github-readme-stats.vercel.app/api?username=anthonymartinez-cpu&show_icons=true&theme=tokyonight&count_private=true)
