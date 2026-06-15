@@ -11,7 +11,7 @@ Este espacio contiene el índice oficial de los proyectos, actividades práctica
 A continuación se detallan los repositorios que integran el portafolio de la materia, organizados por actividad[cite: 1]:
 
 *   ### Proyecto Principal de la Materia
-    *   **Repositorio:** [anthonymartinez-cpu/Actividad_Proyecto_Lenguaje](https://github.com/anthonymartinez-cpu/Actividad_Proyecto_Lenguaje)
+    *   **Repositorio:** [anthonymartinez-cpu/Actividad_Proyecto_Lenguaje](https://github.com/anthonygitmartinez-cpu/Actividad_Proyecto_Lenguaje)
     *   **Descripción:** *Proyecto Inicial de LARAVEL*
     *   **Estado:** `Completado` / `En revisión`
 
