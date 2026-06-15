@@ -24,3 +24,13 @@ A lo largo de mis proyectos académicos, implemento y administro soluciones util
 
 ---
 *Última actualización general: 2026-06*
+
+---
+
+## 📊 Estadísticas de GitHub
+A continuación se presentan métricas automatizadas que reflejan mi actividad y lenguajes más utilizados en la plataforma:
+
+![Estadísticas de Anthony](https://github-readme-stats.vercel.app/api?username=anthonymartinez-cpu&show_icons=true&theme=tokyonight&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonymartinez-cpu&layout=compact&theme=tokyonight)
+
+---
