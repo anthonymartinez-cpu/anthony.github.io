@@ -7,6 +7,9 @@ Bienvenido a mi portafolio técnico profesional.
 En este espacio compilo y documento los proyectos clave desarrollados a lo largo de mi carrera universitaria, aplicando estándares de control de versiones y documentación de la industria.
 
 ---
+Para una mejor experiencia visual e interactiva con mis proyectos y métricas, por favor accede a la interfaz web profesional del portafolio a través del siguiente enlace directo:
+
+## [VISITAR MI PORTAFOLIO WEB INTERACTIVO](./2026-1-Lenguajes_de_Programacion/index.html)
 
 ##Navegación por Periodos Académicos
 
