@@ -31,17 +31,21 @@ A continuación se detallan los repositorios que integran el portafolio de la ma
     *   **Actividad Extra(Individual):** [anthonymartinez-cpu/Actividad_Extra_Lenguaje](https://github.com/anthonymartinez-cpu/Actividad_Extra_Lenguaje)
     *   **Descripción General:** *Actividades de PROLOG y la actividad individual se trata de usar la ultima actividad de Prolog con la incial de LARAVEL para hacer una pagina web*
 
+*   ### Actividades de Videjuegos
+    *   **Actividad 1:** [anthonymartinez-cpu/Unity_PrimerVidejuego](https://github.com/anthonymartinez-cpu/Unity_PrimerVidejuego)
+    *   **Actividad 2:** [anthonymartinez-cpu/Unity3D](https://github.com/anthonymartinez-cpu/Unity3D)
+    *   **Descripcion General: ** *Actividades de Unity de la materia*
+
 *   ### Actividad Grupal
-    *   **Estado:** `Completado`
     ## Primer Prouecto de la Materia (Juan Fernando Pastor)
     *   **Repositorio: ** [anthonymartinez-cpu/proyectoLenguajes1parcial(https://github.com/juanferp912/proyectoLenguajes1parcial)
     *   **Descripcion**: *Actividad grupal de hacer una pagina web usando Laravel, nuestra apliacion es de mostrar los partidos del mundia 2026*
     *   **Estdado**: `Completado`
 
-    *  **Estado: ** `Completado`
+  
     * ## Segundo proyecto de la Materia (Juan Fernando Pastor)
     *   **Repositorio:** [anthonymartinez-cpu/ProyectoSharkJFP_JAM](https://github.com/juanferp912/ProyectoSharkJFP_JAM)
     *   **Descripción:** *Actividad grupal de hacer un videjuego, nuestro videjuego se trata sobre un tiburon comiendo cualquier peces sobreviviendo por enemigos externos*
-    *   **Estado:** `Completado` 
+    *   **Estado**: `Completado` 
 ---
 *Nota: Cada uno de estos repositorios debe contar con su propia plantilla de documentación técnica obligatoria según la rúbrica institucional[cite: 1].*
