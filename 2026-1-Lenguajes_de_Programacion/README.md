@@ -36,9 +36,9 @@ A continuación se detallan los repositorios que integran el portafolio de la ma
     *   **Actividad 2:** [anthonymartinez-cpu/Unity3D](https://github.com/anthonymartinez-cpu/Unity3D)
     *   **Descripcion General: ** *Actividades de Unity de la materia*
 
-*   ### Actividad Grupal
+* ### Actividad Grupal
     ## Primer Prouecto de la Materia (Juan Fernando Pastor)
-    *   **Repositorio: ** [anthonymartinez-cpu/proyectoLenguajes1parcial(https://github.com/juanferp912/proyectoLenguajes1parcial)
+    *   **Repositorio: ** [anthonymartinez-cpu/proyectoLenguajes1parcial](https://github.com/juanferp912/proyectoLenguajes1parcial)
     *   **Descripcion**: *Actividad grupal de hacer una pagina web usando Laravel, nuestra apliacion es de mostrar los partidos del mundia 2026*
     *   **Estdado**: `Completado`
 
