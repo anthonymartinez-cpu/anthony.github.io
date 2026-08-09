@@ -14,6 +14,11 @@ A continuación se detallan los repositorios que integran el portafolio de la ma
     *   **Repositorio:** [anthonymartinez-cpu/Actividad_Proyecto_Lenguaje](https://github.com/anthonygitmartinez-cpu/Actividad_Proyecto_Lenguaje)
     *   **Descripción:** *Proyecto Inicial de LARAVEL*
     *   **Estado:** `Completado` / `En revisión`
+    *   
+*   ### Segundo proyecto de la Materia
+    *   **Repositorio:** [anthonymartinez-cpu/ProyectoSharkJFP_JAM](https://github.com/juanferp912/ProyectoSharkJFP_JAM)
+    *   **Descripción:** *Proyecto de videojuego en Unity*
+    *   **Estado:** `Completado` / `En revisión`
 
 *   ###  Desarrollos y Aplicaciones Web
     *   **Repositorio:** [anthonymartinez-cpu/Proyecto_PHP](https://github.com/anthonymartinez-cpu/Proyecto_PHP)
@@ -30,5 +35,11 @@ A continuación se detallan los repositorios que integran el portafolio de la ma
     *   **Repositorio: ** [anthonymartinez-cpu/proyectoLenguajes1parcial(https://github.com/juanferp912/proyectoLenguajes1parcial)
     *   **Descripcion**: *Actividad grupal de hacer una pagina web usando Laravel, nuestra apliacion es de mostrar los partidos del mundia 2026*
     *   **Estdado**: `Completado`
+
+    *  **Estado: ** `Completado`
+* ### Segundo proyecto de la Materia 
+    *   **Repositorio:** [anthonymartinez-cpu/ProyectoSharkJFP_JAM](https://github.com/juanferp912/ProyectoSharkJFP_JAM)
+    *   **Descripción:** *Actividad grupal de hacer un videjuego, nuestro videjuego se trata sobre un tiburon comiendo cualquier peces sobreviviendo por enemigos externos*
+    *   **Estado:** `Completado` 
 ---
 *Nota: Cada uno de estos repositorios debe contar con su propia plantilla de documentación técnica obligatoria según la rúbrica institucional[cite: 1].*
