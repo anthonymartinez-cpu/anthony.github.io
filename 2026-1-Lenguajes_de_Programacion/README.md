@@ -30,14 +30,16 @@ A continuación se detallan los repositorios que integran el portafolio de la ma
     *   **Actividad 3:** [anthonymartinez-cpu/Lenguaje_Actividad3](https://github.com/anthonymartinez-cpu/Lenguaje_Actividad3)
     *   **Actividad Extra(Individual):** [anthonymartinez-cpu/Actividad_Extra_Lenguaje](https://github.com/anthonymartinez-cpu/Actividad_Extra_Lenguaje)
     *   **Descripción General:** *Actividades de PROLOG y la actividad individual se trata de usar la ultima actividad de Prolog con la incial de LARAVEL para hacer una pagina web*
+
+*   ### Actividad Grupal
     *   **Estado:** `Completado`
-*   ### Actividad Grupal (Juan Fernando Pastor)
+    ## Primer Prouecto de la Materia (Juan Fernando Pastor)
     *   **Repositorio: ** [anthonymartinez-cpu/proyectoLenguajes1parcial(https://github.com/juanferp912/proyectoLenguajes1parcial)
     *   **Descripcion**: *Actividad grupal de hacer una pagina web usando Laravel, nuestra apliacion es de mostrar los partidos del mundia 2026*
     *   **Estdado**: `Completado`
 
     *  **Estado: ** `Completado`
-* ### Segundo proyecto de la Materia 
+    * ## Segundo proyecto de la Materia (Juan Fernando Pastor)
     *   **Repositorio:** [anthonymartinez-cpu/ProyectoSharkJFP_JAM](https://github.com/juanferp912/ProyectoSharkJFP_JAM)
     *   **Descripción:** *Actividad grupal de hacer un videjuego, nuestro videjuego se trata sobre un tiburon comiendo cualquier peces sobreviviendo por enemigos externos*
     *   **Estado:** `Completado` 
