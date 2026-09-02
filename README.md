@@ -1,5 +1,6 @@
-# Mi Portafolio Académico - GitHub Pages
+# Mi Portafolio Académico - GitHub Pages 
 **Estudiante:** Anthony Julian Martinez Navas
+
 **Institución:** Universidad de Especialidades Espíritu Santo (UEES)  
 **Contacto:** anthonymn2006@gmail.com
 
@@ -11,7 +12,7 @@ Para una mejor experiencia visual e interactiva con mis proyectos y métricas, p
 
 ## [VISITAR MI PORTAFOLIO WEB INTERACTIVO](./2026-1-Lenguajes_de_Programacion/index.html)
 
-##Navegación por Periodos Académicos
+## Navegación por Periodos Académicos
 
 Selecciona un periodo para inspeccionar las materias y los proyectos correspondientes:
 
