@@ -1,7 +1,7 @@
 # Mi Portafolio Académico - GitHub Pages
-**Estudiante:** Anthony  
+**Estudiante:** Anthony Julian Martinez Navas
 **Institución:** Universidad de Especialidades Espíritu Santo (UEES)  
-**Contacto:** anthony.martinez@uees.edu.ec
+**Contacto:** anthonymn2006@gmail.com
 
 Bienvenido a mi portafolio técnico profesional.
 En este espacio compilo y documento los proyectos clave desarrollados a lo largo de mi carrera universitaria, aplicando estándares de control de versiones y documentación de la industria.
